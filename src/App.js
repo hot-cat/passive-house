@@ -11,7 +11,7 @@ function App() {
   />
   <Marker position={[ 42.35, 25.12]}>
     <Popup>
-      A pretty CSS3 popup. <br /> Easily customizable.
+      This is prototype of Passive House <br /> Example Location
     </Popup>
   </Marker>
 </MapContainer>
