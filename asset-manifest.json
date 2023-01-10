@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/passive-house/static/css/main.4c6d752e.css",
+    "main.js": "/passive-house/static/js/main.cbef3a79.js",
+    "static/js/787.6b6e474c.chunk.js": "/passive-house/static/js/787.6b6e474c.chunk.js",
+    "static/media/logo.svg": "/passive-house/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/passive-house/index.html",
+    "main.4c6d752e.css.map": "/passive-house/static/css/main.4c6d752e.css.map",
+    "main.cbef3a79.js.map": "/passive-house/static/js/main.cbef3a79.js.map",
+    "787.6b6e474c.chunk.js.map": "/passive-house/static/js/787.6b6e474c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c6d752e.css",
+    "static/js/main.cbef3a79.js"
+  ]
+}
